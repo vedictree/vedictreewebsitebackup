@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-26 04:28:27 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/videouploading.php 84
+ERROR - 2021-11-26 04:28:27 --> Severity: Notice --> Undefined variable: monthId /home/vedictreeschool/public_html/application/views/videouploading.php 92
+ERROR - 2021-11-26 04:28:49 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 24
+ERROR - 2021-11-26 04:28:49 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/edit_video.php 272
+ERROR - 2021-11-26 04:28:49 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 280
+ERROR - 2021-11-26 04:29:01 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 24
+ERROR - 2021-11-26 04:29:01 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/edit_video.php 272
+ERROR - 2021-11-26 04:29:01 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 280
+ERROR - 2021-11-26 04:30:46 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 06:20:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'History' does not have a method 'index_get' /home/vedictreeschool/public_html/application/libraries/REST_Controller.php 739
+ERROR - 2021-11-26 11:02:20 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/videouploading.php 84
+ERROR - 2021-11-26 11:02:20 --> Severity: Notice --> Undefined variable: monthId /home/vedictreeschool/public_html/application/views/videouploading.php 92
+ERROR - 2021-11-26 11:02:42 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/videouploading.php 84
+ERROR - 2021-11-26 11:02:42 --> Severity: Notice --> Undefined variable: monthId /home/vedictreeschool/public_html/application/views/videouploading.php 92
+ERROR - 2021-11-26 11:19:44 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 11:22:58 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 11:28:32 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 11:33:16 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 11:35:00 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 24
+ERROR - 2021-11-26 11:35:00 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/edit_video.php 272
+ERROR - 2021-11-26 11:35:00 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 280
+ERROR - 2021-11-26 11:39:32 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 11:41:47 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 24
+ERROR - 2021-11-26 11:41:47 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/edit_video.php 272
+ERROR - 2021-11-26 11:41:47 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 280
+ERROR - 2021-11-26 11:43:41 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 11:46:10 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 24
+ERROR - 2021-11-26 11:46:10 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/edit_video.php 272
+ERROR - 2021-11-26 11:46:10 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 280
+ERROR - 2021-11-26 12:01:44 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 12:04:42 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 24
+ERROR - 2021-11-26 12:04:42 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/edit_video.php 272
+ERROR - 2021-11-26 12:04:42 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 280
+ERROR - 2021-11-26 12:08:40 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/videouploading.php 84
+ERROR - 2021-11-26 12:08:40 --> Severity: Notice --> Undefined variable: monthId /home/vedictreeschool/public_html/application/views/videouploading.php 92
+ERROR - 2021-11-26 12:10:43 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 12:20:55 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 12:24:38 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 24
+ERROR - 2021-11-26 12:24:38 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/edit_video.php 272
+ERROR - 2021-11-26 12:24:38 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 280
+ERROR - 2021-11-26 12:26:50 --> Severity: Notice --> Undefined variable: whereupload /home/vedictreeschool/public_html/application/views/add_next_to_next_step.php 266
+ERROR - 2021-11-26 12:29:50 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/videouploading.php 84
+ERROR - 2021-11-26 12:29:50 --> Severity: Notice --> Undefined variable: monthId /home/vedictreeschool/public_html/application/views/videouploading.php 92
+ERROR - 2021-11-26 12:31:22 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 24
+ERROR - 2021-11-26 12:31:22 --> Severity: Notice --> Undefined index: error /home/vedictreeschool/public_html/application/views/edit_video.php 272
+ERROR - 2021-11-26 12:31:22 --> Severity: Notice --> Undefined variable: fk_classId /home/vedictreeschool/public_html/application/views/edit_video.php 280
+ERROR - 2021-11-26 15:59:05 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'History' does not have a method 'index_get' /home/vedictreeschool/public_html/application/libraries/REST_Controller.php 739
